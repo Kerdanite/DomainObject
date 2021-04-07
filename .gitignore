@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DomainObject/obj
+/DomainObjectTests/bin/Debug/netcoreapp3.1
+/DomainObjectTests/obj
+/.vs/DomainObject/v16/.suo
+/.vs/DomainObject/v15/.suo
